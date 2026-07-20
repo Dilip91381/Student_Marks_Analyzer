@@ -91,7 +91,7 @@ Enter marks of student 5: 80
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Dilip kumar**
 
 GitHub: https://github.com/your-username
 
